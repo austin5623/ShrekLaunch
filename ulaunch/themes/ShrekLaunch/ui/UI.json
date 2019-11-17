@@ -1,0 +1,19 @@
+{
+    "suspended_final_alpha": 0,
+    "text_color": "#e1e1e1ff",
+    "menu_focus_color": "#5ebcffff",
+    "menu_bg_color": "#0094ffff",
+
+    "menu_folder_text_x": 30,
+    "menu_folder_text_y": 200,
+    "menu_folder_text_size": 25,
+
+    "main_menu": {
+        "menu_toggle_button": {
+            "visible": false
+        },
+        "firmware_text": {
+            "visible": false
+        }
+    }
+}
